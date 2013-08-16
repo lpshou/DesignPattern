@@ -1,1 +1,3 @@
-Éè¼ÆÄ£Ê½
+design pattern  
+refer ï¼š
+http://www.mscenter.edu.cn/blog/k_eckel
